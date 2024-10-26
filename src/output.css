@@ -1554,6 +1554,10 @@ html {
   border-bottom-left-radius: 0px;
 }
 
+.static {
+  position: static;
+}
+
 .fixed {
   position: fixed;
 }
@@ -1579,6 +1583,10 @@ html {
   margin-right: auto;
 }
 
+.ml-8 {
+  margin-left: 2rem;
+}
+
 .flex {
   display: flex;
 }
@@ -1589,6 +1597,10 @@ html {
 
 .min-h-screen {
   min-height: 100vh;
+}
+
+.w-48 {
+  width: 12rem;
 }
 
 .w-96 {
